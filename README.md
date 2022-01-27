@@ -1,1 +1,1 @@
-# simpliearn
+# simplilearn
